@@ -1,0 +1,24 @@
+[28-Mar-2018 12:38:22 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 47
+[28-Mar-2018 12:38:22 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 48
+[28-Mar-2018 12:38:32 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 47
+[28-Mar-2018 12:38:32 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 48
+[28-Mar-2018 12:38:48 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 47
+[28-Mar-2018 12:38:48 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 48
+[28-Mar-2018 12:41:28 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 47
+[28-Mar-2018 12:41:28 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 48
+[28-Mar-2018 12:41:33 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 47
+[28-Mar-2018 12:41:33 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 48
+[28-Mar-2018 12:41:37 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 47
+[28-Mar-2018 12:41:37 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 48
+[28-Mar-2018 12:41:43 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 47
+[28-Mar-2018 12:41:43 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 48
+[28-Mar-2018 12:42:41 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 47
+[28-Mar-2018 12:42:41 UTC] PHP Notice:  Undefined index: origem in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 48
+[28-Mar-2018 19:28:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 18712 bytes) in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 563
+[09-Apr-2018 18:33:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 18712 bytes) in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 563
+[09-Apr-2018 18:38:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 18712 bytes) in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 563
+[10-Apr-2018 14:03:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 18712 bytes) in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 563
+[10-Apr-2018 14:10:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4678 bytes) in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 563
+[10-Apr-2018 17:47:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4678 bytes) in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 563
+[10-Apr-2018 17:49:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4678 bytes) in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 563
+[10-Apr-2018 19:28:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4678 bytes) in /home/ortobelcolchoes/public_html/painel/ferramentas/Upload-Jquery/server/php/UploadHandler.php on line 563

@@ -1,0 +1,1 @@
+<iframe src="https://viacaogenesis.guichevirtual.com.br/widget?utm_source=GENESISBUS&logo=false&transition=true&color=blue&bg=rgba(233,233,233,1)&display=horizontal" width="100%" height="360" scrolling="no" frameborder="no" style="z-index: 99999999;"></iframe>

@@ -1,0 +1,24 @@
+[09-Apr-2018 11:00:54 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/gerenciar.php on line 90
+[09-Apr-2018 11:08:44 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/gerenciar.php on line 91
+[09-Apr-2018 11:08:46 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 93
+[09-Apr-2018 11:08:46 America/Cuiaba] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 130
+[09-Apr-2018 13:36:26 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/gerenciar.php on line 91
+[09-Apr-2018 13:38:39 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/gerenciar.php on line 92
+[09-Apr-2018 13:39:06 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/gerenciar.php on line 92
+[09-Apr-2018 13:39:44 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/gerenciar.php on line 92
+[09-Apr-2018 13:39:47 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/gerenciar.php on line 92
+[09-Apr-2018 13:40:45 America/Cuiaba] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 34
+[09-Apr-2018 13:40:45 America/Cuiaba] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 34
+[09-Apr-2018 13:40:45 America/Cuiaba] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 34
+[09-Apr-2018 13:40:45 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 35
+[09-Apr-2018 13:40:45 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 93
+[09-Apr-2018 13:40:45 America/Cuiaba] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 130
+[09-Apr-2018 13:42:18 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 95
+[09-Apr-2018 13:42:18 America/Cuiaba] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 132
+[09-Apr-2018 13:44:22 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ortobelc_site.site_estados' doesn't exist' in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php:56
+Stack trace:
+#0 /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php(56): PDO->query('SELECT codigo_e...')
+#1 {main}
+  thrown in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 56
+[09-Apr-2018 13:44:57 America/Cuiaba] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 133
+[09-Apr-2018 13:45:06 America/Cuiaba] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, object given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_cidade/form.php on line 133

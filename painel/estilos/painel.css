@@ -1,0 +1,243 @@
+/**** INICIO - APLICA A TODO O ADM ****/
+body {
+	margin: 0px;
+	background-color: #DAE4EF;
+}
+body, td {
+	font-size: 11px;
+	font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+	color: #000000;
+}
+a {
+	color: #0000CC;
+	text-decoration: none;
+}
+a:hover {
+	color: #0000CC;
+	text-decoration: underline;
+}
+/**** FIM - APLICA A TODO O ADM ****/
+
+/**** INICIO - LOGIN ****/
+#login-body {
+	background-color: #FFFFFF;
+	background-image: url(../imagens/painel/fundo_login.jpg);
+	background-repeat: repeat-x;
+	background-position: center;
+}
+#logowalbernir {
+	position:absolute;
+	right: 10px;
+	bottom: 25px;
+	width:60px;
+	height: 64px;
+	z-index:1;
+}
+.login-form-campo {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	width: 170px;
+	height: 27px;
+	border-color: #FFFFFF;
+	border-style: solid;
+	border-width: 2px;	
+}
+.login-titulo {
+	line-height: 24px;
+	color: #FFFFFF;
+}
+/**** FIM - LOGIN ****/
+
+/**** INICIO - MENU ****/
+#lateral-body {
+	background-color: #FFFFFF;
+	background-image: url(../imagens/painel/fundo_lateral.gif);
+	background-repeat: repeat-y;
+	background-position: right;
+}
+.menu-link {
+	font-size: 14px;
+	color: #000000;
+	text-decoration: none;
+	line-height: 24px;
+}
+a.menu-link:hover {
+	color: #000000;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.lateral-titulo-sessao {
+	color: #FFFFFF;
+	font-size: 12px;
+	line-height: 25px;
+	font-weight: bold;
+	background-color: #495774;
+	display: block;
+	height: 25px;
+	padding: 5px;
+	margin-bottom: 15px;
+}
+/**** FIM - MENU ****/
+
+/**** INICIO - TOPO ****/
+.topo-titulo-sessao {
+	color: #000000;
+	line-height: 24px;
+	background-image: url(../imagens/painel/fundo_topo.gif);
+	background-repeat: repeat-x;
+	display: block;
+	height: 24px;
+	padding-left: 5px;
+}
+/**** FIM - TOPO ****/
+
+/**** INICIO CSS QUADRO AVISO ****/
+.linha-direita-box-aviso {
+	border-right: #000000 solid 1px;
+}
+.linha-esquerda-box-aviso {
+	border-left: #000000 solid 1px;
+}
+.linha-topo-box-aviso {
+	border-top: #000000 solid 1px;
+}
+.linha-baixo-box-aviso {
+	border-bottom: #000000 solid 1px;
+}
+.titulo-aviso {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+}
+.fechar-aviso-box-aviso {
+	font-size: 10px;
+	color: #000000;
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	text-align: right;
+}
+a.fechar-aviso-box-aviso:hover {
+	text-decoration: underline;
+}
+/**** FIM CSS QUADRO AVISO ****/
+
+/**** INICIO - PRINCIPAL ****/
+/* ==> controles de formul�rio */
+	.campo-form {
+		color: #000000;
+		font-weight: bold;
+		width: 140px;
+	}
+	.checkbox {
+		border: solid 0px #7F9DB9;
+	}
+	input {
+		border: solid 1px #7F9DB9;
+	}
+	select {
+		border: solid 1px #7F9DB9;
+	}
+	#button, .button {
+		font-weight: bold;
+		background-image: url(../imagens/painel/fundo.gif);
+		font-size: 12px;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		padding: 4px;
+		border: solid 1px #003C74;
+	}
+	#button:hover, .button:hover {
+		background-image: none;
+		background-color: #DEDEEF;	
+	}
+
+.titulo-sessao-azul {
+	position: relative;
+	color: #FFFFFF;
+	font-size: 12px;
+	line-height: 25px;
+	font-weight: bold;
+	background-color: #467EB6;
+	height: 25px;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+.negrito-padding-b-10 {
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+.negrito-padding-tb-10 {
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.negrito {
+	font-weight: bold;
+}
+.info-observacao {
+	margin: 10px;
+	padding: 2px;
+}
+/**** FIM - PRINCIPAL ****/
+
+/**** NOTICIA - EDITOR TEXTO - JANELA POR CIMA ****/
+#boxColarConteudo {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0px;
+	left: 0px;	
+	background-image: url(../imagens/painel/fundo_telacheia.png);
+	z-index: 99;
+	display: none;
+}
+#boxColarConteudoFormularioCentral {
+	position: relative;
+	width: 600px;
+	height: 493px;
+	top: 50%;
+	left: 50%;
+	margin: -246px 0 0 -300px;
+	background-color: #FFF;
+	padding: 10px;
+	border: 1px solid #000;
+	overflow: hidden;
+}
+.boxColarConteudoFormularioCentralTitulo {
+	position: relative;
+	height: 20px;
+	line-height: 20px;
+	font-weight: bold;
+}
+.boxColarConteudoFormularioCentralDetalhe {
+	position: relative;
+	height: 18px;
+	line-height: 18px;
+	margin: 0px 0px 10px 0px;
+	color: #666;
+}
+.boxColarConteudoFormularioCentralForm {
+	position: relative;
+	height: 400px;
+	overflow: hidden;
+}
+.boxColarConteudoFormularioCentralBotoes {
+	position: relative;
+	height: 45px;
+	text-align: right;
+}
+#conteudo_externo {
+	width: 594px;
+	height: 394px;
+	max-height: 394px;
+	max-width: 594px;
+	background-color: #F9F9F9;
+}
+/**** NOTICIA - EDITOR TEXTO - JANELA POR CIMA ****/
+
+.campo-nome{width: 425px; height: 40px;padding: 0 0 0 10px;}
+.select-tipo{width: 300px; height: 40px;padding: 0 0 0 10px;}

@@ -1,0 +1,10 @@
+[09-Apr-2018 10:04:41 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'texto_revendedor' in 'field list'' in /home/ortobelcolchoes/public_html/painel/sessao_revendedor/incluir_revendedor.php:34
+Stack trace:
+#0 /home/ortobelcolchoes/public_html/painel/sessao_revendedor/incluir_revendedor.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ortobelcolchoes/public_html/painel/sessao_revendedor/incluir_revendedor.php on line 34
+[13-Apr-2018 13:49:35 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`ortobelc_site`.`revendedor`, CONSTRAINT `fk_revendedor_bairro` FOREIGN KEY (`codigo_bairro`) REFERENCES `bairro` (`codigo_bairro`) ON DELETE NO ACTION ON UPDATE NO ACTION)' in /home/ortobelcolchoes/public_html/painel/sessao_revendedor/incluir_revendedor.php:16
+Stack trace:
+#0 /home/ortobelcolchoes/public_html/painel/sessao_revendedor/incluir_revendedor.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ortobelcolchoes/public_html/painel/sessao_revendedor/incluir_revendedor.php on line 16

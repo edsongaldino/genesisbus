@@ -1,0 +1,2 @@
+[09-Apr-2018 14:12:49 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_bairro/gerenciar.php on line 93
+[09-Apr-2018 14:13:20 America/Cuiaba] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ortobelcolchoes/public_html/painel/sessao_cadastro/sessao_bairro/gerenciar.php on line 93
