@@ -1,9 +1,9 @@
 <?php
 // informações do banco de dados (SITE)
-define("BD_HOST","genesisbus.com.br");
-define("BD_USUARIO","genesisb_site");
-define("BD_SENHA","Gc(.pC.LVR@c");//Senha do BD Ortobel
-define("BD_BANCO","genesisb_site");
+define("BD_HOST","genesisbus.mysql.dbaas.com.br");
+define("BD_USUARIO","genesisbus");
+define("BD_SENHA","Web@259864");//Senha do BD Ortobel
+define("BD_BANCO","genesisbus");
 
 // informações do painel
 define("TITULO_OFF","Genesis - Transporte e Turismo");
